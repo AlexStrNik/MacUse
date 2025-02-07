@@ -12,7 +12,6 @@ Unlike traditional macOS automation tools that rely on cursor manipulation, scre
 
 - **No Cursor Hijacking**: Your mouse cursor stays exactly where you left it
 - **No Screenshots Required**: All decisions are made by analyzing the accessibility tree
-- **Focus-Preserving**: Operates without disrupting your current window focus
 - **Pure Accessibility**: Leverages macOS Accessibility Tree for navigation and control
 
 ## Current State
